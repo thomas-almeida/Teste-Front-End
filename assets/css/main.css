@@ -1,0 +1,29 @@
+@import url('navbar.css');
+@import url('show-banner.css');
+@import url('tendencias.css');
+@import url('destaques.css');
+@import url('footer.css');
+@import url('dropdown.css');
+@import url('sub-dropdown-1.css');
+@import url('sub-dropdown-2.css');
+@import url('sub-dropdown-3.css');
+@import url('../jq/nivo-slider.css');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: white;
+    width: 894px;
+}

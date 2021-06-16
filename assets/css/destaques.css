@@ -1,0 +1,40 @@
+.destaques{
+   
+    padding: 10px;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.boxes div{
+    margin: 10px;
+}
+
+.boxes div p{
+    padding: 10px;
+    padding-left: 0;
+    line-height: 20px;
+}
+
+.destaques h1{
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.boxes a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.boxes a:hover{
+    text-decoration: underline;
+}
+
+.boxes img{
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.631);
+}

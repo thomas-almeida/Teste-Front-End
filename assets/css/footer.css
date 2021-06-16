@@ -1,0 +1,30 @@
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+footer ul {
+    list-style: none;
+    text-align: center;
+}
+
+footer li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 16pt;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    color: gray;
+}
+
+footer p {
+    padding: 5px;
+    color: white;
+    text-align: center;
+}

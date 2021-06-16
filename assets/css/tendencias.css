@@ -1,0 +1,57 @@
+.tendencias {
+    padding: 10px;
+    display: flex;
+
+    justify-content: center;
+    align-content: center;
+    height: 270px;
+}
+
+.info-tendencias {
+    padding: 0px;
+    width: 100%;
+}
+
+.info-tendencias h1, p, ul {
+    padding: 10px;
+}
+
+.info-tendencias p {
+    font-size: 14pt;
+    width: 450px;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.info-tendencias ul {
+    padding-left: 30px;
+}
+
+.tendencias img {
+    border-radius: 5px;
+    box-shadow: 2px 3px 8px rgba(192, 3, 255, 0.631);
+}
+
+.tendencias section {
+    padding: 20px;
+    padding-left: 5px;
+}
+
+.tendencias a {
+    background-color: black;
+    padding: 15px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    box-shadow: 3px 3px 1px black;
+}
+
+.tendencias a:hover{
+    color: gray;
+}
+
+.tendencias b {
+    color: orangered;
+}

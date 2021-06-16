@@ -1,0 +1,59 @@
+
+.pre-infos   {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.fast-contact {
+    width: 894px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.fast-contact b {
+    padding: 10px;
+}
+
+.fast-contact a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.fast-contact a:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+}
+
+.navbar ul {
+    overflow: hidden;
+    list-style: none;
+    text-align: right;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.navbar a{
+    font-size: 16pt;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar a:hover{
+    color: gray;
+}

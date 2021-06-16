@@ -1,0 +1,10 @@
+.show-banner {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.show-banner img{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.631);
+}
