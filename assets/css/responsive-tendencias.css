@@ -1,0 +1,39 @@
+
+@media screen and (max-width: 600px) {
+  
+    .tendencias {
+        display: flex;
+       justify-content: center;
+       align-items: center;
+        padding: 0;
+        height: auto; 
+        flex-direction:column-reverse;
+    }
+
+    .info-tendencias{
+        padding: 0; 
+        width: 90%;
+    }
+
+    .info-tendencias h1{
+        font-size: 1.4rem;
+        padding: 10px;
+    }
+
+    .info-tendencias p{
+        font-size: 1.1rem;
+        text-align: justify;
+        width: auto;
+    }
+
+    .info-img{
+        text-align: center;
+        width: 90%;
+    }
+
+    .info-img img{
+        width: 100%;
+    }
+
+  
+}

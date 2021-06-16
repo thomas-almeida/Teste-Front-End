@@ -10,20 +10,26 @@
 @import url('../jq/nivo-slider.css');
 
 
+/* Media Queries */
+@import url('responsive-navbar.css');
+@import url('responsive-tendencias.css');
+@import url('responsive-destaques.css');
+@import url('responsive-tablet.css');
+
 * {
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
 }
 
-.content{
+.content {
     display: flex;
     justify-content: center;
     align-content: center;
     align-items: center;
 }
 
-.container{
+.container {
     background-color: white;
     width: 894px;
 }
